@@ -48,7 +48,7 @@ npm run dev
 ```
 .
 ├── src/                 # Main source code
-├── public/              # Static assets
+├── src/resources/public/              # Static assets
 ├── valheim-config/      # Handling of valheim_plus.cfg file
 ├── dist/                # Compiled builds (auto-generated)
 └── package.json         # Project metadata and scripts
